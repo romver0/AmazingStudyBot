@@ -1,0 +1,6 @@
+aiogram>=2.7
+aiohttp>=3.6.2
+environs>=8.0.0
+pip>=22.1.2
+
+
